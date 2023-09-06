@@ -1,2 +1,2 @@
-# Double-Fusion
-Double Fusion: A USV Perception Model based on Double Fusion Mechanism and Graph Neural Network
+# Mask-VRDet
+Mask-VRDet: A Robust Riverway Panoptic Perception Model based on Dual Graph Fusion of Vision and 4D mmWave Radar
